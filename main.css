@@ -1,0 +1,29 @@
+.margin-top-50 {
+	margin-top: 50px;
+}
+
+.author-img {
+	background: url('img/OBDock.jpg') no-repeat center center fixed;
+	background-size: cover;
+	
+}
+
+.align-center {
+	text-align: center;
+}
+
+.card {
+	color:#00c5e3;
+	z-index: 1;
+}
+
+.card-2-img {
+	background-color: #fff;
+}
+
+
+
+.footer {
+    height: 40px;
+    text-align: center;
+}
