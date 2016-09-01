@@ -1,0 +1,131 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Sidebar</title>
+
+    <!-- REACT -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.2.1/react.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.2.1/react-dom.js"></script>
+
+    <!-- BABEL -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.34/browser.min.js"></script>
+
+    <!-- JQUERY -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+
+    <!-- REMARKABLE -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/remarkable/1.6.2/remarkable.min.js"></script>
+
+    <!-- BOOTSTRAP JS -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/js/bootstrap.min.js"></script>
+
+    <!-- BOOTSTRAP CSS -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/css/bootstrap.css">
+
+    <!-- FONTS -->
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet' type='text/css'>
+
+    <!-- CUSTOM STYLES -->
+    <link rel="stylesheet" type="text/css" href="sidebar.css">
+  </head>
+
+  <body>
+    <a href="../index.html">Back to Home</a>
+
+    <div id="content"></div>
+
+    <script type="text/babel">
+
+    var Sidebar = React.createClass({
+    	
+    	getDefaultProps: function () {
+    		return { 
+
+    			fname: "Obed", 
+    			lname: "Ampah"
+
+    			};
+    	},
+
+    	render: function() {
+
+    		return (
+
+    		<div className="container-fluid main-container">
+
+    			<div className="row">
+
+    				<div className="col-md-6">
+    					
+    					<h1 className="fname">{this.props.fname}</h1><h1 className="lname">{this.props.lname}</h1>
+    					<hr />
+	    				<Img />
+		    			<Bio />
+	    				
+    				</div>
+
+	    		</div>
+
+    		</div>
+
+    		);
+
+    	}
+    });
+
+      var Img = React.createClass({
+        render: function() {
+
+          return (
+
+            <div>
+
+            	<img src="http://i.imgur.com/Yf2U6V8.jpg" />
+
+            </div>
+
+          );
+
+        }
+
+      });
+
+
+      var Bio = React.createClass({
+  
+  	    getDefaultProps: function () {
+
+      		return {
+
+      			about: "About the Developer"
+
+      			};
+
+  		    },
+
+      	render: function() {
+
+      		return (
+
+      			<div>
+
+      				<h3 className="about">{this.props.about}</h3>
+
+      				<div className="bio">
+      					Self-taught developer adding tips and tricks to his toolkit. Looking for the 6-fingered man that murdered my father. If it can be purchased pre-made, I would rather cook it at home.
+      				</div>
+
+      			</div>
+      		);
+      	}
+      });
+
+      ReactDOM.render(
+        <Sidebar />,
+        document.getElementById('content')
+      );
+    </script>
+  </body>
+</html>
