@@ -13,7 +13,7 @@
 }
 
 .card {
-	color:#00c5e3;
+	color: #00c5e3;
 	z-index: 1;
 	height: 192px;
 }
@@ -22,7 +22,17 @@
 	background-color: #fff;
 }
 
+.card-1 {
+	color: #00c5e3;
+}
 
+.card-2 {
+	color: #d61f57;
+}
+
+.card-3 {
+	color: #000000;
+}
 
 .footer {
     height: 40px;
