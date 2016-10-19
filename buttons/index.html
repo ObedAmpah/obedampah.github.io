@@ -1,0 +1,56 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Buttons Component</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.2.1/react.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.2.1/react-dom.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.34/browser.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/remarkable/1.6.2/remarkable.min.js"></script>
+    
+    <link rel="stylesheet" type="text/css" href="buttons.css">
+  </head>
+  <body>
+    <div id="content"></div>
+<!--     <script type="text/babel" src="scripts/example.js"></script> -->
+    <script type="text/babel">
+
+
+      var Buttons = React.createClass({
+        render: function() {
+
+          return (
+
+            <div>
+
+              <h3>A Basic Button</h3>
+              <div className="button">Buy Now</div>
+
+              <h3>A Button Element with the Button Class</h3>
+              <button className="button">Send Mail</button>
+
+              <h3>An Anchor with a Button Class</h3>
+              <a href="#" className="button">Search</a>
+
+              <h3>Buttons of different sizes</h3>
+              <div className="button button-sm">A Small Button</div>
+              <div className="button button-md">A Medium Button</div>
+              <div className="button button-lg">A Large Button</div>
+
+            </div>
+
+          );
+
+        }
+
+      });
+
+      ReactDOM.render(
+        <Buttons />,
+        document.getElementById('content')
+      );
+    </script>
+  </body>
+</html>
