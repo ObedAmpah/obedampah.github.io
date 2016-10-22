@@ -1,0 +1,25 @@
+/* Main Stylings */
+
+body {
+	background-color: #efefef;
+	font-family: 'Poppins', sans-serif;
+}
+
+.row {
+	border: 1px solid #FFF;
+	padding: 20px 0 20px 0;
+}
+
+.title {
+	color: #00c5e3;
+}
+
+button {
+	background-color: #d61f57;
+	border-radius: 5px;
+	color: #FFF;
+}
+
+#main_container {
+  	margin-top: 50px; 
+}

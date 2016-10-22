@@ -1,0 +1,46 @@
+/* Main Stylings */
+
+body {
+	background-color: #efefef;
+	font-family: 'Poppins', sans-serif;
+}
+
+.row {
+	border: 1px solid #FFF;
+	padding: 20px 0 20px 0;
+}
+
+.title {
+	color: #00c5e3;
+}
+
+button {
+	background-color: #d61f57;
+	border-radius: 5px;
+	color: #FFF;
+}
+
+#main_container {
+  	margin-top: 50px; 
+}
+
+#input_container {
+	padding: 0;
+}
+
+input.input {
+    margin-left: 0px;
+}
+
+.radio label {
+	padding-left: 0;
+}
+
+#output_container {
+	padding: 0;
+	overflow-y: scroll;
+	height: 500px;
+	background: #FFF;
+    padding: 0 0 0 20px;
+    border: 1px solid #000;
+}
