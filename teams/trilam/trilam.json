@@ -1,4 +1,6 @@
 {
+
+  "teamName": "CJProsIceIceBaby",
   "players": {
 
     "Tyrod_Taylor": {
@@ -130,8 +132,20 @@
       "pointsAvg": ""
     }
 
+  },
+
+  "logo": {
+      "src": ""
+  },
+
+  "points": {
+    "pointsPerWeek": 123.41,
+    "totalPoints": 1727.72
+  },
+
+  "preseasonGrade": "",
+  "seasonEndRank": "",
+  "championship": false
 
 
-
-  }
 }
