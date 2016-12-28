@@ -4,5 +4,7 @@
 
 <h1>Phase One: Championship Roster</h1>
 
-TODO: Enter team data
-TODO: Test Team Data URL
+TODO: Enter team data<br/>
+TODO: Test Team Data URL<br/>
+TODO: Make request to endpoint
+TODO: Create UI
