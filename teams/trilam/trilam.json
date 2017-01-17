@@ -5,6 +5,7 @@
 
     "Tyrod_Taylor": {
       "position": "QB",
+      "name": "Tyrod Taylor",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -13,6 +14,7 @@
     },
     "Matt_Barkley": {
       "position": "QB",
+      "name": "Matt Barkley",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -21,6 +23,7 @@
     },
     "Ezekiel_Elliott": {
       "position": "RB",
+      "name": "Ezekiel Elliott",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -29,6 +32,7 @@
     },
     "LeSean_McCoy": {
       "position": "RB",
+      "name": "LeSean McCoy",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -37,6 +41,7 @@
     },
     "Johnathon_Stewart": {
       "position": "RB",
+      "name": "Johnathon Stewart",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -45,6 +50,7 @@
     },
     "Mark_Ingram": {
       "position": "RB",
+      "name": "Mark Ingram",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -53,6 +59,7 @@
     },
     "Mike_Gillislee": {
       "position": "RB",
+      "name": "Mike Gillislee",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -61,6 +68,7 @@
     },
     "Michael_Crabtree": {
       "position": "WR",
+      "name": "Michael Crabtree",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -69,6 +77,7 @@
     },
     "Rishard_Mathews": {
       "position": "WR",
+      "name": "Rishard Mathews",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -77,6 +86,7 @@
     },
     "Malcolm_Mitchell" : {
       "position": "WR",
+      "name": "Malcolm Mitchell",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -85,6 +95,7 @@
     },
     "Dontrelle_Inman" : {
       "position": "WR",
+      "name": "Dontrelle Inamn",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -93,6 +104,7 @@
     },
     "Tyler_Boyd" : {
       "position": "WR",
+      "name": "Tyler Boyd",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -101,6 +113,7 @@
     },
     "Ryan_Griffin" : {
       "position": "TE",
+      "name": "Ryan Griffin",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -109,6 +122,7 @@
     },
     "CJ_Fiedorowicz" : {
       "position": "TE",
+      "name": "CJ Fiedorowicz",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -117,6 +131,7 @@
     },
     "Adam_Vinatieri" : {
       "position": "K",
+      "name": "Adam Vinatieri",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
@@ -125,6 +140,7 @@
     },
     "New_England" : {
       "position": "DEF",
+      "name": "New England",
       "preseasonRank": "",
       "regularSeasonRank": "",
       "playoffRank": "",
