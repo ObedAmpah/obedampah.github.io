@@ -1,7 +1,7 @@
 {
 
   "teamName": "CJProsIceIceBaby",
-  "players": {
+  "players": [
 
     "Tyrod_Taylor": {
       "position": "QB",
@@ -148,7 +148,7 @@
       "pointsAvg": ""
     }
 
-  },
+  ],
 
   "logo": {
       "src": ""
