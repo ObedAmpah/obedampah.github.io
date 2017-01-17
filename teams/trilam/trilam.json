@@ -1,167 +1,171 @@
 {
+  "team": [
 
-  "teamName": "CJProsIceIceBaby",
-  "players": {
+    {
 
-    "Tyrod_Taylor": {
-      "position": "QB",
-      "name": "Tyrod Taylor",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "Matt_Barkley": {
-      "position": "QB",
-      "name": "Matt Barkley",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "Ezekiel_Elliott": {
-      "position": "RB",
-      "name": "Ezekiel Elliott",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "LeSean_McCoy": {
-      "position": "RB",
-      "name": "LeSean McCoy",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "Johnathon_Stewart": {
-      "position": "RB",
-      "name": "Johnathon Stewart",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "Mark_Ingram": {
-      "position": "RB",
-      "name": "Mark Ingram",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "Mike_Gillislee": {
-      "position": "RB",
-      "name": "Mike Gillislee",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "Michael_Crabtree": {
-      "position": "WR",
-      "name": "Michael Crabtree",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "Rishard_Mathews": {
-      "position": "WR",
-      "name": "Rishard Mathews",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "Malcolm_Mitchell" : {
-      "position": "WR",
-      "name": "Malcolm Mitchell",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "Dontrelle_Inman" : {
-      "position": "WR",
-      "name": "Dontrelle Inamn",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "Tyler_Boyd" : {
-      "position": "WR",
-      "name": "Tyler Boyd",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "Ryan_Griffin" : {
-      "position": "TE",
-      "name": "Ryan Griffin",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "CJ_Fiedorowicz" : {
-      "position": "TE",
-      "name": "CJ Fiedorowicz",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "Adam_Vinatieri" : {
-      "position": "K",
-      "name": "Adam Vinatieri",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
-    },
-    "New_England" : {
-      "position": "DEF",
-      "name": "New England",
-      "preseasonRank": "",
-      "regularSeasonRank": "",
-      "playoffRank": "",
-      "pointsTotal": "",
-      "pointsAvg": ""
+      "teamName": "CJProsIceIceBaby",
+      "players": {
+
+        "Tyrod_Taylor": {
+          "position": "QB",
+          "name": "Tyrod Taylor",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "Matt_Barkley": {
+          "position": "QB",
+          "name": "Matt Barkley",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "Ezekiel_Elliott": {
+          "position": "RB",
+          "name": "Ezekiel Elliott",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "LeSean_McCoy": {
+          "position": "RB",
+          "name": "LeSean McCoy",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "Johnathon_Stewart": {
+          "position": "RB",
+          "name": "Johnathon Stewart",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "Mark_Ingram": {
+          "position": "RB",
+          "name": "Mark Ingram",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "Mike_Gillislee": {
+          "position": "RB",
+          "name": "Mike Gillislee",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "Michael_Crabtree": {
+          "position": "WR",
+          "name": "Michael Crabtree",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "Rishard_Mathews": {
+          "position": "WR",
+          "name": "Rishard Mathews",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "Malcolm_Mitchell" : {
+          "position": "WR",
+          "name": "Malcolm Mitchell",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "Dontrelle_Inman" : {
+          "position": "WR",
+          "name": "Dontrelle Inamn",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "Tyler_Boyd" : {
+          "position": "WR",
+          "name": "Tyler Boyd",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "Ryan_Griffin" : {
+          "position": "TE",
+          "name": "Ryan Griffin",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "CJ_Fiedorowicz" : {
+          "position": "TE",
+          "name": "CJ Fiedorowicz",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "Adam_Vinatieri" : {
+          "position": "K",
+          "name": "Adam Vinatieri",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        },
+        "New_England" : {
+          "position": "DEF",
+          "name": "New England",
+          "preseasonRank": "",
+          "regularSeasonRank": "",
+          "playoffRank": "",
+          "pointsTotal": "",
+          "pointsAvg": ""
+        }
+
+      },
+
+      "logo": {
+        "src": ""
+      },
+
+      "points": {
+        "pointsPerWeek": 123.41,
+        "totalPoints": 1727.72
+      },
+
+      "preseasonGrade": "",
+      "seasonEndRank": "",
+      "championship": false
+
     }
-
-  },
-
-  "logo": {
-      "src": ""
-  },
-
-  "points": {
-    "pointsPerWeek": 123.41,
-    "totalPoints": 1727.72
-  },
-
-  "preseasonGrade": "",
-  "seasonEndRank": "",
-  "championship": false
-
-
+  ]
 }
