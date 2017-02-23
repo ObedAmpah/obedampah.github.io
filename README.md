@@ -6,5 +6,7 @@
 
 TODO: Enter team data<br/>
 TODO: Test Team Data URL<br/>
-TODO: Make request to endpoint
-TODO: Create UI
+TODO: Make request to endpoint<br/>
+TODO: Add respone to state store<br/>
+TODO: Figure out tests that need to be written<br/>
+TODO: Create UI<br/>
