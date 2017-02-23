@@ -1,9 +1,5 @@
 0 info it worked if it ends with ok
-1 verbose cli [ '/usr/local/bin/node',
-1 verbose cli   '/usr/local/bin/npm',
-1 verbose cli   'run',
-1 verbose cli   'create-react-app',
-1 verbose cli   'FFTA' ]
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'start' ]
 2 info using npm@3.10.3
 3 info using node@v6.6.0
 4 verbose config Skipping project config: /Users/obed_work/.npmrc. (matches userconfig)
@@ -11,7 +7,7 @@
 5 verbose stack     at Error (native)
 6 verbose cwd /Users/obed_work/Documents/MODERN-DEVELOPER-STUDENTS/PAGES/FFTA
 7 error Darwin 14.5.0
-8 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "run" "create-react-app" "FFTA"
+8 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "start"
 9 error node v6.6.0
 10 error npm  v3.10.3
 11 error path /Users/obed_work/package.json
